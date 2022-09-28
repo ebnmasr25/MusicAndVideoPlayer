@@ -12,4 +12,4 @@ youtube-search-python
 yt-dlp
 python-dotenv
 gTTS
-googletrans==4.0.0
+googletrans==4.0.0rc1
